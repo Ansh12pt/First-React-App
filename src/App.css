@@ -1,0 +1,25 @@
+* {
+    background-color: rgb(52, 54, 155);
+
+}
+
+body {
+    background-color: white;
+}
+
+input {
+    width: 100%;
+    color: wheat;
+
+
+}
+
+
+.ap-button {
+    min-width: 80px;
+}
+
+.ap-row {
+    margin: 10px 5px;
+
+}
